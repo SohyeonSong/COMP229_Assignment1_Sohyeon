@@ -1,2 +1,2 @@
 # COMP229_Assignment1_Sohyeon
- COMP229_Assignmen1
+ COMP229_Assignment1_Sohyeon
